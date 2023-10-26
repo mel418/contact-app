@@ -49,7 +49,3 @@ Dive deeper into client-side routing concepts and techniques.
 Continue through the rest of the sections, following the tutorial's guidance for each topic. By the end of this tutorial, you will have a comprehensive understanding of React Router and how to create a contact tracking application.
 
 Happy coding!
-
----
-
-Feel free to expand on each section with additional details, code snippets, and explanations as you progress through your learning journey. This README will serve as a roadmap for anyone visiting your repository and wanting to learn React Router in a practical context.
